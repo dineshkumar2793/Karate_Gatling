@@ -1,0 +1,6 @@
+helpers\DataGenerator.class
+examples\TestSetup.class
+com\swisscom\karategatlingintegrationexample\KarateGatlingIntegrationExampleApplicationTests.class
+examples\ExamplesTest.class
+examples\todo\TodosRunner.class
+examples\status\StatusRunner.class

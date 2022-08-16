@@ -1,0 +1,1507 @@
+RUN	examples.performance.StatusTest	statustest	1660573626608	 	3.7.4
+USER	Get Application Status	START	1660573626755
+USER	Find All Todo	START	1660573626755
+USER	Find All Todo	START	1660573628734
+USER	Get Application Status	START	1660573628734
+USER	Get Application Status	START	1660573628782
+USER	Find All Todo	START	1660573628782
+USER	Find All Todo	START	1660573628829
+USER	Get Application Status	START	1660573628829
+USER	Find All Todo	START	1660573628876
+USER	Get Application Status	START	1660573628876
+USER	Find All Todo	START	1660573628923
+USER	Get Application Status	START	1660573628923
+USER	Get Application Status	START	1660573628983
+USER	Find All Todo	START	1660573628983
+USER	Get Application Status	START	1660573629042
+USER	Find All Todo	START	1660573629042
+USER	Find All Todo	START	1660573629075
+USER	Get Application Status	START	1660573629075
+USER	Find All Todo	START	1660573629123
+USER	Get Application Status	START	1660573629123
+USER	Find All Todo	START	1660573629170
+USER	Get Application Status	START	1660573629185
+USER	Find All Todo	START	1660573629233
+USER	Get Application Status	START	1660573629233
+USER	Find All Todo	START	1660573629280
+USER	Get Application Status	START	1660573629280
+USER	Find All Todo	START	1660573629328
+USER	Get Application Status	START	1660573629328
+USER	Get Application Status	START	1660573629376
+USER	Find All Todo	START	1660573629376
+USER	Find All Todo	START	1660573629424
+USER	Get Application Status	START	1660573629424
+USER	Find All Todo	START	1660573629472
+USER	Get Application Status	START	1660573629488
+USER	Find All Todo	START	1660573629520
+USER	Get Application Status	START	1660573629536
+USER	Get Application Status	START	1660573629585
+USER	Find All Todo	START	1660573629584
+USER	Get Application Status	START	1660573629632
+USER	Find All Todo	START	1660573629632
+USER	Get Application Status	START	1660573629680
+USER	Find All Todo	START	1660573629680
+USER	Find All Todo	START	1660573629727
+USER	Get Application Status	START	1660573629742
+REQUEST		GET /karate-api/users/swiss/todos/	1660573628937	1660573633164	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573628937	1660573633164	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573628937	1660573633164	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573628952	1660573633164	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573628937	1660573633164	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573628937	1660573633164	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573628937	1660573633164	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573628953	1660573633164	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573628937	1660573633164	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573628937	1660573633164	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573628937	1660573633164	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573628937	1660573633164	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573633191	1660573637263	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573633184	1660573637264	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573633191	1660573637264	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573633185	1660573637264	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573633186	1660573637264	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573633190	1660573637264	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573633194	1660573637264	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573633191	1660573637264	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573633186	1660573637264	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573633189	1660573637264	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573633186	1660573637264	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573633189	1660573637264	KO	examples/performance/Todo.feature:14 method Get
+USER	Get Application Status	END	1660573633173
+USER	Find All Todo	END	1660573633174
+USER	Get Application Status	END	1660573633174
+USER	Find All Todo	END	1660573633174
+USER	Find All Todo	END	1660573633174
+USER	Get Application Status	END	1660573633174
+USER	Find All Todo	END	1660573633174
+USER	Find All Todo	END	1660573633174
+USER	Find All Todo	END	1660573633175
+USER	Get Application Status	END	1660573633175
+USER	Get Application Status	END	1660573633175
+USER	Get Application Status	END	1660573633175
+USER	Find All Todo	END	1660573637264
+USER	Get Application Status	END	1660573637264
+USER	Get Application Status	END	1660573637264
+USER	Get Application Status	END	1660573637264
+USER	Get Application Status	END	1660573637264
+USER	Get Application Status	END	1660573637265
+USER	Find All Todo	END	1660573637265
+USER	Find All Todo	END	1660573637266
+USER	Find All Todo	END	1660573637266
+USER	Get Application Status	END	1660573637266
+USER	Find All Todo	END	1660573637266
+REQUEST		GET /karate-api/status	1660573637274	1660573641351	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573637274	1660573641351	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573637277	1660573641367	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573637274	1660573641367	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573637276	1660573641367	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573637274	1660573641368	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573637276	1660573641369	KO	examples/performance/Todo.feature:14 method Get
+USER	Find All Todo	END	1660573637267
+USER	Get Application Status	END	1660573641351
+USER	Find All Todo	END	1660573641351
+USER	Get Application Status	START	1660573641369
+USER	Get Application Status	START	1660573641370
+USER	Get Application Status	START	1660573641371
+USER	Get Application Status	START	1660573641372
+USER	Get Application Status	START	1660573641371
+USER	Get Application Status	START	1660573641371
+USER	Get Application Status	START	1660573641373
+USER	Get Application Status	START	1660573641371
+USER	Get Application Status	START	1660573641377
+USER	Get Application Status	START	1660573641371
+USER	Get Application Status	START	1660573641372
+USER	Get Application Status	START	1660573641377
+USER	Get Application Status	START	1660573641371
+USER	Get Application Status	START	1660573641373
+USER	Get Application Status	START	1660573641370
+USER	Get Application Status	START	1660573641377
+USER	Get Application Status	START	1660573641371
+USER	Get Application Status	START	1660573641372
+USER	Get Application Status	START	1660573641379
+REQUEST		GET /karate-api/users/swiss/todos/	1660573637275	1660573641382	KO	examples/performance/Todo.feature:14 method Get
+USER	Get Application Status	START	1660573641379
+REQUEST		GET /karate-api/status	1660573637274	1660573641382	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573637284	1660573641383	KO	examples/performance/Todo.feature:14 method Get
+USER	Get Application Status	START	1660573641369
+USER	Get Application Status	START	1660573641371
+USER	Get Application Status	START	1660573641380
+USER	Get Application Status	START	1660573641380
+REQUEST		GET /karate-api/status	1660573637274	1660573641390	KO	examples/performance/Status.feature:13 method Get
+USER	Get Application Status	START	1660573641377
+USER	Get Application Status	START	1660573641372
+USER	Get Application Status	START	1660573641374
+USER	Get Application Status	START	1660573641383
+USER	Get Application Status	START	1660573641381
+USER	Get Application Status	START	1660573641379
+USER	Get Application Status	START	1660573641389
+USER	Get Application Status	START	1660573641391
+USER	Get Application Status	START	1660573641379
+USER	Get Application Status	START	1660573641380
+USER	Get Application Status	START	1660573641377
+USER	Get Application Status	START	1660573641386
+USER	Get Application Status	START	1660573641392
+USER	Get Application Status	START	1660573641393
+USER	Get Application Status	START	1660573641393
+USER	Get Application Status	START	1660573641379
+USER	Get Application Status	START	1660573641379
+USER	Get Application Status	START	1660573641394
+USER	Find All Todo	END	1660573641367
+USER	Find All Todo	END	1660573641367
+USER	Get Application Status	END	1660573641368
+USER	Find All Todo	END	1660573641368
+USER	Get Application Status	END	1660573641368
+USER	Get Application Status	START	1660573641380
+USER	Get Application Status	START	1660573641380
+USER	Get Application Status	START	1660573641371
+REQUEST		GET /karate-api/status	1660573637274	1660573641398	KO	examples/performance/Status.feature:13 method Get
+USER	Get Application Status	START	1660573641394
+USER	Get Application Status	START	1660573641381
+USER	Get Application Status	START	1660573641394
+USER	Get Application Status	START	1660573641384
+USER	Get Application Status	START	1660573641383
+USER	Get Application Status	START	1660573641392
+USER	Get Application Status	START	1660573641392
+USER	Get Application Status	START	1660573641394
+USER	Get Application Status	START	1660573641397
+USER	Get Application Status	START	1660573641377
+USER	Get Application Status	START	1660573641392
+USER	Get Application Status	START	1660573641396
+USER	Get Application Status	START	1660573641395
+USER	Get Application Status	START	1660573641398
+USER	Get Application Status	START	1660573641394
+USER	Get Application Status	START	1660573641395
+USER	Get Application Status	START	1660573641371
+USER	Get Application Status	START	1660573641395
+USER	Get Application Status	START	1660573641397
+USER	Get Application Status	START	1660573641398
+USER	Get Application Status	START	1660573641398
+USER	Get Application Status	START	1660573641400
+USER	Get Application Status	START	1660573641401
+USER	Get Application Status	START	1660573641397
+USER	Get Application Status	START	1660573641400
+USER	Get Application Status	START	1660573641401
+USER	Get Application Status	START	1660573641403
+USER	Get Application Status	START	1660573641403
+USER	Get Application Status	START	1660573641370
+USER	Get Application Status	START	1660573641401
+USER	Get Application Status	START	1660573641401
+USER	Get Application Status	START	1660573641400
+USER	Get Application Status	START	1660573641400
+USER	Get Application Status	START	1660573641400
+USER	Get Application Status	START	1660573641400
+USER	Get Application Status	START	1660573641407
+USER	Get Application Status	START	1660573641407
+USER	Get Application Status	START	1660573641407
+USER	Get Application Status	START	1660573641403
+USER	Get Application Status	START	1660573641407
+USER	Get Application Status	START	1660573641400
+USER	Get Application Status	START	1660573641406
+USER	Get Application Status	START	1660573641406
+USER	Get Application Status	START	1660573641405
+USER	Get Application Status	START	1660573641405
+USER	Get Application Status	START	1660573641404
+USER	Get Application Status	START	1660573641406
+USER	Get Application Status	START	1660573641419
+USER	Get Application Status	START	1660573641419
+USER	Get Application Status	START	1660573641370
+USER	Get Application Status	START	1660573641400
+USER	Get Application Status	START	1660573641406
+USER	Get Application Status	START	1660573641419
+USER	Get Application Status	START	1660573641406
+USER	Get Application Status	START	1660573641403
+USER	Get Application Status	START	1660573641400
+USER	Get Application Status	START	1660573641418
+USER	Get Application Status	START	1660573641419
+USER	Get Application Status	START	1660573641419
+USER	Get Application Status	START	1660573641391
+USER	Get Application Status	START	1660573641419
+USER	Get Application Status	START	1660573641419
+USER	Get Application Status	START	1660573641405
+USER	Get Application Status	START	1660573641419
+USER	Get Application Status	START	1660573641419
+USER	Get Application Status	START	1660573641422
+USER	Get Application Status	START	1660573641422
+USER	Get Application Status	START	1660573641406
+USER	Get Application Status	START	1660573641391
+USER	Get Application Status	START	1660573641423
+USER	Get Application Status	START	1660573641423
+USER	Get Application Status	START	1660573641424
+USER	Get Application Status	START	1660573641421
+USER	Get Application Status	START	1660573641373
+USER	Get Application Status	START	1660573641422
+USER	Get Application Status	START	1660573641423
+USER	Get Application Status	START	1660573641423
+USER	Get Application Status	START	1660573641424
+USER	Get Application Status	START	1660573641424
+USER	Find All Todo	START	1660573641423
+USER	Get Application Status	START	1660573641419
+USER	Get Application Status	START	1660573641421
+USER	Get Application Status	START	1660573641427
+USER	Get Application Status	START	1660573641424
+USER	Get Application Status	START	1660573641424
+USER	Get Application Status	START	1660573641424
+USER	Get Application Status	START	1660573641427
+USER	Get Application Status	START	1660573641427
+USER	Get Application Status	START	1660573641427
+USER	Get Application Status	START	1660573641427
+USER	Get Application Status	START	1660573641426
+USER	Get Application Status	START	1660573641427
+USER	Get Application Status	START	1660573641429
+USER	Get Application Status	START	1660573641429
+USER	Get Application Status	START	1660573641425
+USER	Get Application Status	START	1660573641429
+USER	Get Application Status	START	1660573641427
+USER	Get Application Status	START	1660573641427
+USER	Get Application Status	START	1660573641422
+USER	Get Application Status	START	1660573641429
+USER	Get Application Status	START	1660573641424
+USER	Get Application Status	START	1660573641431
+USER	Get Application Status	START	1660573641431
+USER	Get Application Status	START	1660573641432
+USER	Get Application Status	START	1660573641432
+USER	Get Application Status	START	1660573641432
+USER	Get Application Status	START	1660573641431
+USER	Get Application Status	START	1660573641431
+USER	Get Application Status	START	1660573641433
+USER	Get Application Status	START	1660573641430
+USER	Get Application Status	START	1660573641431
+USER	Get Application Status	START	1660573641430
+USER	Get Application Status	START	1660573641432
+USER	Find All Todo	START	1660573641430
+USER	Get Application Status	START	1660573641427
+USER	Get Application Status	START	1660573641431
+USER	Get Application Status	START	1660573641430
+USER	Get Application Status	START	1660573641432
+USER	Get Application Status	START	1660573641433
+USER	Get Application Status	START	1660573641426
+USER	Get Application Status	START	1660573641431
+USER	Get Application Status	START	1660573641431
+USER	Get Application Status	START	1660573641437
+USER	Find All Todo	START	1660573641436
+USER	Find All Todo	START	1660573641436
+USER	Find All Todo	START	1660573641437
+USER	Get Application Status	START	1660573641436
+USER	Get Application Status	START	1660573641436
+USER	Get Application Status	START	1660573641436
+USER	Get Application Status	START	1660573641436
+USER	Find All Todo	START	1660573641439
+USER	Find All Todo	START	1660573641439
+USER	Get Application Status	START	1660573641435
+USER	Get Application Status	START	1660573641436
+USER	Get Application Status	START	1660573641434
+USER	Get Application Status	START	1660573641436
+USER	Get Application Status	START	1660573641437
+USER	Find All Todo	START	1660573641436
+USER	Get Application Status	START	1660573641436
+USER	Get Application Status	START	1660573641436
+USER	Get Application Status	START	1660573641437
+USER	Get Application Status	START	1660573641436
+USER	Find All Todo	START	1660573641439
+USER	Find All Todo	START	1660573641441
+USER	Find All Todo	START	1660573641439
+USER	Get Application Status	START	1660573641437
+USER	Get Application Status	START	1660573641438
+USER	Get Application Status	START	1660573641440
+USER	Get Application Status	START	1660573641439
+USER	Find All Todo	START	1660573641441
+USER	Get Application Status	START	1660573641436
+USER	Get Application Status	START	1660573641443
+USER	Get Application Status	START	1660573641437
+USER	Get Application Status	START	1660573641440
+USER	Find All Todo	START	1660573641440
+USER	Find All Todo	START	1660573641439
+USER	Find All Todo	START	1660573641441
+USER	Get Application Status	START	1660573641434
+USER	Find All Todo	START	1660573641443
+USER	Get Application Status	START	1660573641443
+USER	Get Application Status	START	1660573641444
+USER	Find All Todo	START	1660573641444
+USER	Find All Todo	START	1660573641445
+USER	Find All Todo	START	1660573641445
+USER	Find All Todo	START	1660573641444
+USER	Find All Todo	START	1660573641445
+USER	Get Application Status	START	1660573641444
+USER	Get Application Status	START	1660573641445
+USER	Get Application Status	START	1660573641443
+USER	Get Application Status	START	1660573641446
+USER	Get Application Status	START	1660573641441
+USER	Get Application Status	START	1660573641446
+USER	Get Application Status	START	1660573641447
+USER	Find All Todo	START	1660573641447
+USER	Find All Todo	START	1660573641446
+USER	Find All Todo	START	1660573641447
+USER	Get Application Status	START	1660573641445
+USER	Find All Todo	START	1660573641449
+USER	Get Application Status	START	1660573641447
+USER	Get Application Status	START	1660573641449
+USER	Find All Todo	START	1660573641449
+USER	Find All Todo	START	1660573641451
+USER	Find All Todo	START	1660573641451
+USER	Find All Todo	START	1660573641449
+USER	Get Application Status	START	1660573641451
+USER	Get Application Status	START	1660573641449
+USER	Get Application Status	START	1660573641451
+USER	Find All Todo	START	1660573641451
+USER	Find All Todo	START	1660573641451
+USER	Find All Todo	START	1660573641453
+USER	Get Application Status	START	1660573641453
+USER	Find All Todo	START	1660573641451
+USER	Find All Todo	START	1660573641453
+USER	Find All Todo	START	1660573641454
+USER	Find All Todo	START	1660573641452
+USER	Get Application Status	START	1660573641454
+USER	Find All Todo	START	1660573641449
+USER	Find All Todo	START	1660573641452
+USER	Find All Todo	START	1660573641453
+USER	Get Application Status	START	1660573641452
+USER	Find All Todo	START	1660573641455
+USER	Get Application Status	START	1660573641455
+USER	Find All Todo	START	1660573641454
+USER	Find All Todo	START	1660573641455
+USER	Find All Todo	START	1660573641455
+USER	Find All Todo	START	1660573641455
+USER	Find All Todo	START	1660573641458
+USER	Find All Todo	START	1660573641458
+USER	Find All Todo	START	1660573641457
+USER	Find All Todo	START	1660573641461
+USER	Find All Todo	START	1660573641460
+USER	Get Application Status	START	1660573641457
+USER	Find All Todo	START	1660573641457
+USER	Find All Todo	START	1660573641457
+USER	Find All Todo	START	1660573641457
+USER	Find All Todo	START	1660573641458
+USER	Get Application Status	START	1660573641455
+USER	Find All Todo	START	1660573641462
+USER	Get Application Status	START	1660573641460
+USER	Find All Todo	START	1660573641462
+USER	Find All Todo	START	1660573641463
+USER	Find All Todo	START	1660573641463
+USER	Find All Todo	START	1660573641463
+USER	Find All Todo	START	1660573641463
+USER	Find All Todo	START	1660573641462
+USER	Find All Todo	START	1660573641449
+USER	Find All Todo	START	1660573641461
+USER	Find All Todo	START	1660573641462
+USER	Find All Todo	START	1660573641460
+USER	Find All Todo	START	1660573641460
+USER	Find All Todo	START	1660573641466
+USER	Find All Todo	START	1660573641466
+USER	Find All Todo	START	1660573641457
+USER	Find All Todo	START	1660573641466
+USER	Get Application Status	START	1660573641463
+USER	Find All Todo	START	1660573641466
+USER	Find All Todo	START	1660573641466
+USER	Find All Todo	START	1660573641464
+USER	Find All Todo	START	1660573641457
+USER	Get Application Status	START	1660573641457
+USER	Find All Todo	START	1660573641467
+USER	Get Application Status	START	1660573641456
+USER	Find All Todo	START	1660573641466
+USER	Find All Todo	START	1660573641467
+USER	Find All Todo	START	1660573641467
+USER	Get Application Status	START	1660573641453
+USER	Get Application Status	START	1660573641464
+USER	Find All Todo	START	1660573641467
+USER	Find All Todo	START	1660573641456
+USER	Find All Todo	START	1660573641467
+USER	Find All Todo	START	1660573641468
+USER	Find All Todo	START	1660573641464
+USER	Find All Todo	START	1660573641467
+USER	Find All Todo	START	1660573641468
+USER	Find All Todo	START	1660573641468
+USER	Find All Todo	START	1660573641470
+USER	Find All Todo	START	1660573641470
+USER	Find All Todo	START	1660573641468
+USER	Find All Todo	START	1660573641471
+USER	Find All Todo	START	1660573641472
+USER	Find All Todo	START	1660573641471
+USER	Find All Todo	START	1660573641467
+USER	Find All Todo	START	1660573641471
+USER	Find All Todo	START	1660573641473
+USER	Find All Todo	START	1660573641470
+USER	Find All Todo	START	1660573641468
+USER	Find All Todo	START	1660573641473
+USER	Find All Todo	START	1660573641473
+USER	Find All Todo	START	1660573641468
+USER	Find All Todo	START	1660573641471
+USER	Find All Todo	START	1660573641475
+USER	Find All Todo	START	1660573641467
+USER	Find All Todo	START	1660573641474
+USER	Find All Todo	START	1660573641468
+USER	Get Application Status	START	1660573641470
+USER	Find All Todo	START	1660573641474
+USER	Find All Todo	START	1660573641470
+USER	Find All Todo	START	1660573641475
+USER	Get Application Status	START	1660573641470
+USER	Find All Todo	START	1660573641476
+USER	Find All Todo	START	1660573641474
+USER	Find All Todo	START	1660573641476
+USER	Find All Todo	START	1660573641476
+USER	Find All Todo	START	1660573641476
+USER	Find All Todo	START	1660573641475
+USER	Find All Todo	START	1660573641474
+USER	Find All Todo	START	1660573641474
+USER	Find All Todo	START	1660573641468
+USER	Get Application Status	START	1660573641464
+USER	Find All Todo	START	1660573641478
+USER	Find All Todo	START	1660573641477
+USER	Find All Todo	START	1660573641480
+USER	Find All Todo	START	1660573641480
+USER	Find All Todo	START	1660573641478
+USER	Find All Todo	START	1660573641476
+USER	Find All Todo	START	1660573641478
+USER	Get Application Status	START	1660573641477
+USER	Get Application Status	START	1660573641459
+USER	Find All Todo	START	1660573641480
+USER	Find All Todo	START	1660573641477
+USER	Find All Todo	START	1660573641478
+USER	Find All Todo	START	1660573641476
+USER	Find All Todo	START	1660573641470
+USER	Find All Todo	START	1660573641482
+USER	Find All Todo	START	1660573641482
+USER	Find All Todo	START	1660573641482
+USER	Find All Todo	START	1660573641480
+USER	Find All Todo	START	1660573641468
+USER	Find All Todo	START	1660573641483
+USER	Find All Todo	START	1660573641482
+USER	Get Application Status	START	1660573641456
+USER	Find All Todo	START	1660573641476
+USER	Find All Todo	START	1660573641482
+USER	Find All Todo	START	1660573641478
+USER	Get Application Status	START	1660573641482
+USER	Get Application Status	START	1660573641478
+USER	Find All Todo	START	1660573641488
+USER	Find All Todo	START	1660573641489
+USER	Find All Todo	START	1660573641489
+USER	Find All Todo	START	1660573641489
+USER	Get Application Status	START	1660573641482
+USER	Find All Todo	START	1660573641482
+USER	Find All Todo	START	1660573641489
+USER	Find All Todo	START	1660573641488
+USER	Find All Todo	START	1660573641489
+USER	Find All Todo	START	1660573641483
+USER	Find All Todo	START	1660573641492
+USER	Find All Todo	START	1660573641492
+USER	Find All Todo	START	1660573641488
+USER	Find All Todo	START	1660573641482
+USER	Get Application Status	START	1660573641491
+USER	Get Application Status	START	1660573641490
+USER	Find All Todo	START	1660573641483
+USER	Find All Todo	START	1660573641483
+USER	Find All Todo	START	1660573641493
+USER	Find All Todo	START	1660573641490
+USER	Get Application Status	START	1660573641495
+USER	Get Application Status	START	1660573641496
+USER	Find All Todo	START	1660573641490
+USER	Get Application Status	START	1660573641492
+USER	Find All Todo	START	1660573641493
+USER	Find All Todo	START	1660573641495
+USER	Find All Todo	START	1660573641494
+USER	Find All Todo	START	1660573641491
+USER	Find All Todo	START	1660573641494
+USER	Find All Todo	START	1660573641499
+USER	Find All Todo	START	1660573641499
+USER	Find All Todo	START	1660573641496
+USER	Find All Todo	START	1660573641499
+USER	Find All Todo	START	1660573641499
+USER	Find All Todo	START	1660573641498
+USER	Find All Todo	START	1660573641493
+USER	Find All Todo	START	1660573641490
+USER	Find All Todo	START	1660573641501
+USER	Find All Todo	START	1660573641495
+USER	Find All Todo	START	1660573641496
+USER	Find All Todo	START	1660573641499
+USER	Find All Todo	START	1660573641498
+USER	Find All Todo	START	1660573641501
+USER	Find All Todo	START	1660573641502
+USER	Find All Todo	START	1660573641502
+USER	Find All Todo	START	1660573641503
+USER	Find All Todo	START	1660573641505
+USER	Find All Todo	START	1660573641503
+USER	Find All Todo	START	1660573641501
+USER	Find All Todo	START	1660573641502
+USER	Find All Todo	START	1660573641502
+USER	Find All Todo	START	1660573641508
+USER	Find All Todo	START	1660573641510
+USER	Find All Todo	START	1660573641510
+USER	Find All Todo	START	1660573641506
+USER	Find All Todo	START	1660573641508
+USER	Find All Todo	START	1660573641510
+USER	Find All Todo	START	1660573641509
+USER	Find All Todo	START	1660573641509
+USER	Find All Todo	START	1660573641509
+USER	Find All Todo	START	1660573641510
+USER	Find All Todo	START	1660573641512
+USER	Find All Todo	START	1660573641511
+USER	Find All Todo	START	1660573641513
+USER	Find All Todo	START	1660573641511
+USER	Find All Todo	START	1660573641512
+USER	Find All Todo	START	1660573641511
+USER	Find All Todo	START	1660573641511
+USER	Find All Todo	START	1660573641512
+USER	Find All Todo	START	1660573641514
+USER	Find All Todo	START	1660573641514
+USER	Find All Todo	START	1660573641514
+USER	Find All Todo	START	1660573641514
+USER	Find All Todo	START	1660573641514
+USER	Find All Todo	START	1660573641514
+USER	Find All Todo	START	1660573641514
+USER	Find All Todo	START	1660573641514
+USER	Find All Todo	START	1660573641516
+USER	Find All Todo	START	1660573641516
+USER	Find All Todo	START	1660573641517
+USER	Find All Todo	START	1660573641516
+USER	Find All Todo	START	1660573641516
+USER	Find All Todo	START	1660573641516
+USER	Find All Todo	START	1660573641519
+USER	Find All Todo	START	1660573641519
+USER	Find All Todo	START	1660573641519
+USER	Find All Todo	START	1660573641519
+USER	Find All Todo	START	1660573641519
+USER	Find All Todo	START	1660573641522
+USER	Find All Todo	START	1660573641523
+USER	Find All Todo	START	1660573641522
+USER	Find All Todo	START	1660573641522
+USER	Find All Todo	START	1660573641524
+USER	Find All Todo	START	1660573641524
+USER	Find All Todo	START	1660573641524
+USER	Find All Todo	START	1660573641526
+USER	Find All Todo	START	1660573641526
+REQUEST		GET /karate-api/users/swiss/todos/	1660573641374	1660573645457	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573641378	1660573645457	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573641356	1660573645457	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573641392	1660573645457	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573641374	1660573645457	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573641373	1660573645460	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573641376	1660573645464	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573641392	1660573645468	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573641392	1660573645488	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573641405	1660573645514	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573641407	1660573645514	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573641422	1660573645514	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573645474	1660573649537	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573645488	1660573649553	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573645490	1660573649553	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573645474	1660573649568	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573645474	1660573649568	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573645481	1660573649568	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573645500	1660573649585	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573645528	1660573649585	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573645508	1660573649585	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573645496	1660573649600	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573645528	1660573649600	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573645528	1660573649631	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573649544	1660573653610	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573649577	1660573653610	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573649560	1660573653612	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573649577	1660573653625	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573649560	1660573653625	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573649577	1660573653625	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573649590	1660573653643	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573649591	1660573653656	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573649590	1660573653656	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573649607	1660573653687	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573649607	1660573653692	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573649638	1660573653766	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573653617	1660573657699	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573653619	1660573657699	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573653617	1660573657713	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573653633	1660573657729	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573653633	1660573657729	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573653650	1660573657744	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573653634	1660573657760	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573653666	1660573657775	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573653682	1660573657790	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573653696	1660573657790	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573653700	1660573657805	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573653776	1660573657852	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573657704	1660573661789	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573657704	1660573661803	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573657734	1660573661850	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573657719	1660573661850	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573657749	1660573661851	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573657734	1660573661851	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573657794	1660573661882	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573657765	1660573661882	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573657780	1660573661882	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573657794	1660573661882	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573657810	1660573661942	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573657857	1660573661943	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573661792	1660573665894	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573661809	1660573665909	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573661855	1660573665925	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573661855	1660573665941	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573661855	1660573665957	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573661856	1660573665957	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573661892	1660573665972	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573661892	1660573665972	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573661894	1660573665972	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573661892	1660573665972	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573661949	1660573666035	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573661949	1660573666035	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573665897	1660573669957	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573665913	1660573669971	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573665944	1660573670020	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573665963	1660573670020	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573665964	1660573670020	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573665929	1660573670034	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573665977	1660573670035	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573665977	1660573670049	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573665977	1660573670066	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573665978	1660573670081	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573666039	1660573670128	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573666039	1660573670129	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573669961	1660573674035	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573669975	1660573674067	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573670025	1660573674113	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573670025	1660573674113	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573670025	1660573674130	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573670038	1660573674144	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573670038	1660573674144	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573670071	1660573674175	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573670054	1660573674175	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573670088	1660573674175	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573670133	1660573674223	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573670133	1660573674237	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573674039	1660573678108	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573674070	1660573678155	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573674134	1660573678170	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573674118	1660573678170	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573674118	1660573678186	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573674149	1660573678203	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573674149	1660573678203	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573674181	1660573678250	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573674181	1660573678250	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573674181	1660573678266	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573674241	1660573678297	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573674227	1660573678311	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573678111	1660573682188	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573678159	1660573682253	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573678175	1660573682253	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573678192	1660573682268	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573678175	1660573682268	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573678207	1660573682284	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573678207	1660573682284	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573678270	1660573682331	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573678255	1660573682331	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573678254	1660573682345	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573678303	1660573682376	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573678316	1660573682424	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573682193	1660573686289	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573682256	1660573686335	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573682256	1660573686335	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573682273	1660573686351	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573682273	1660573686352	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573682289	1660573686366	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573682289	1660573686381	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573682336	1660573686382	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573682336	1660573686382	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573682350	1660573686446	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573682380	1660573686461	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573682429	1660573686522	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573686294	1660573690412	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573686356	1660573690429	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573686355	1660573690445	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573686339	1660573690445	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573686339	1660573690460	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573686370	1660573690460	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573686387	1660573690460	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573686387	1660573690492	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573686387	1660573690508	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573686465	1660573690554	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573686450	1660573690586	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573686526	1660573690634	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573690415	1660573694522	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573690433	1660573694538	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573690466	1660573694552	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573690449	1660573694552	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573690449	1660573694553	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573690466	1660573694553	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573690466	1660573694584	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573690497	1660573694601	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573690513	1660573694617	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573690557	1660573694633	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573690590	1660573694694	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573690638	1660573694756	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573694525	1660573698597	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573694541	1660573698611	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573694557	1660573698613	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573694557	1660573698642	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573694557	1660573698657	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573694557	1660573698657	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573694589	1660573698673	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573694638	1660573698689	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573694604	1660573698704	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573694623	1660573698704	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573694697	1660573698812	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573694759	1660573698859	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573698618	1660573702666	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573698616	1660573702698	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573698600	1660573702713	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573698646	1660573702729	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573698662	1660573702745	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573698662	1660573702777	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573698693	1660573702777	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573698708	1660573702807	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573698677	1660573702807	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573698708	1660573702824	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573698815	1660573702885	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573698863	1660573702947	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573702669	1660573706798	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573702702	1660573706812	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573702715	1660573706813	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573702733	1660573706843	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573702749	1660573706859	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573702810	1660573706890	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573702781	1660573706890	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573702781	1660573706891	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573702810	1660573706891	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573702828	1660573706920	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573702888	1660573706999	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573702949	1660573707045	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573706817	1660573710884	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573706817	1660573710914	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573706800	1660573710931	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573706862	1660573710946	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573706847	1660573710963	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573706895	1660573710978	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573706896	1660573710978	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573706895	1660573710993	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573706895	1660573710993	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573706925	1660573711039	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573707004	1660573711101	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573707049	1660573711165	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573710886	1660573714959	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573710917	1660573715005	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573710950	1660573715021	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573710967	1660573715021	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573710936	1660573715037	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573710982	1660573715054	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573710982	1660573715054	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573710997	1660573715100	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573710997	1660573715114	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573711043	1660573715147	KO	examples/performance/Status.feature:13 method Get
+USER	Get Application Status	END	1660573641431
+USER	Find All Todo	END	1660573641436
+USER	Find All Todo	END	1660573641443
+USER	Get Application Status	END	1660573641475
+USER	Get Application Status	END	1660573641492
+USER	Find All Todo	END	1660573645458
+USER	Get Application Status	END	1660573645464
+USER	Find All Todo	END	1660573645464
+USER	Find All Todo	END	1660573645464
+USER	Get Application Status	END	1660573645464
+USER	Get Application Status	END	1660573645464
+USER	Get Application Status	END	1660573645465
+USER	Get Application Status	END	1660573645479
+USER	Get Application Status	END	1660573645490
+USER	Get Application Status	END	1660573645515
+USER	Get Application Status	END	1660573645515
+USER	Get Application Status	END	1660573645516
+USER	Get Application Status	END	1660573649539
+USER	Get Application Status	END	1660573649554
+USER	Get Application Status	END	1660573649554
+USER	Get Application Status	END	1660573649569
+USER	Get Application Status	END	1660573649569
+USER	Find All Todo	END	1660573649569
+USER	Get Application Status	END	1660573649585
+USER	Get Application Status	END	1660573649585
+USER	Get Application Status	END	1660573649585
+USER	Get Application Status	END	1660573649601
+USER	Get Application Status	END	1660573649601
+USER	Get Application Status	END	1660573649632
+USER	Get Application Status	END	1660573653610
+USER	Get Application Status	END	1660573653610
+USER	Get Application Status	END	1660573653612
+USER	Get Application Status	END	1660573653626
+USER	Get Application Status	END	1660573653626
+USER	Get Application Status	END	1660573653626
+USER	Get Application Status	END	1660573653643
+USER	Get Application Status	END	1660573653658
+USER	Get Application Status	END	1660573653658
+USER	Get Application Status	END	1660573653688
+USER	Get Application Status	END	1660573653693
+USER	Get Application Status	END	1660573653767
+USER	Get Application Status	END	1660573657699
+USER	Get Application Status	END	1660573657699
+USER	Get Application Status	END	1660573657714
+USER	Get Application Status	END	1660573657730
+USER	Get Application Status	END	1660573657730
+USER	Get Application Status	END	1660573657745
+USER	Get Application Status	END	1660573657760
+USER	Get Application Status	END	1660573657776
+USER	Get Application Status	END	1660573657791
+USER	Get Application Status	END	1660573657791
+USER	Get Application Status	END	1660573657806
+USER	Get Application Status	END	1660573657853
+USER	Get Application Status	END	1660573661789
+USER	Get Application Status	END	1660573661804
+USER	Get Application Status	END	1660573661851
+USER	Get Application Status	END	1660573661851
+USER	Get Application Status	END	1660573661851
+USER	Get Application Status	END	1660573661851
+USER	Get Application Status	END	1660573661882
+USER	Get Application Status	END	1660573661882
+USER	Get Application Status	END	1660573661882
+USER	Get Application Status	END	1660573661882
+USER	Get Application Status	END	1660573661944
+USER	Get Application Status	END	1660573661944
+USER	Get Application Status	END	1660573665894
+USER	Find All Todo	END	1660573665909
+USER	Get Application Status	END	1660573665925
+USER	Get Application Status	END	1660573665941
+USER	Find All Todo	END	1660573665958
+USER	Get Application Status	END	1660573665958
+USER	Get Application Status	END	1660573665973
+USER	Get Application Status	END	1660573665973
+USER	Get Application Status	END	1660573665973
+USER	Find All Todo	END	1660573665973
+USER	Get Application Status	END	1660573666034
+USER	Get Application Status	END	1660573666035
+USER	Get Application Status	END	1660573669957
+USER	Get Application Status	END	1660573669972
+USER	Find All Todo	END	1660573670020
+USER	Get Application Status	END	1660573670020
+USER	Find All Todo	END	1660573670020
+USER	Get Application Status	END	1660573670035
+USER	Get Application Status	END	1660573670035
+USER	Get Application Status	END	1660573670050
+USER	Get Application Status	END	1660573670067
+USER	Find All Todo	END	1660573670082
+USER	Get Application Status	END	1660573670130
+USER	Get Application Status	END	1660573670130
+USER	Get Application Status	END	1660573674035
+USER	Find All Todo	END	1660573674067
+USER	Get Application Status	END	1660573674113
+USER	Find All Todo	END	1660573674113
+USER	Find All Todo	END	1660573674130
+USER	Get Application Status	END	1660573674144
+USER	Get Application Status	END	1660573674144
+USER	Get Application Status	END	1660573674175
+USER	Find All Todo	END	1660573674175
+USER	Get Application Status	END	1660573674175
+USER	Get Application Status	END	1660573674223
+USER	Get Application Status	END	1660573674238
+USER	Find All Todo	END	1660573678108
+USER	Find All Todo	END	1660573678155
+USER	Find All Todo	END	1660573678171
+USER	Get Application Status	END	1660573678171
+USER	Find All Todo	END	1660573678187
+USER	Get Application Status	END	1660573678203
+USER	Get Application Status	END	1660573678203
+USER	Find All Todo	END	1660573678250
+USER	Get Application Status	END	1660573678250
+USER	Get Application Status	END	1660573678266
+USER	Get Application Status	END	1660573678298
+USER	Get Application Status	END	1660573678311
+USER	Get Application Status	END	1660573682189
+USER	Get Application Status	END	1660573682252
+USER	Find All Todo	END	1660573682252
+USER	Find All Todo	END	1660573682268
+USER	Find All Todo	END	1660573682268
+USER	Get Application Status	END	1660573682284
+USER	Get Application Status	END	1660573682284
+USER	Get Application Status	END	1660573682331
+USER	Find All Todo	END	1660573682331
+USER	Get Application Status	END	1660573682346
+USER	Find All Todo	END	1660573682377
+USER	Get Application Status	END	1660573682424
+USER	Find All Todo	END	1660573686290
+USER	Find All Todo	END	1660573686335
+USER	Get Application Status	END	1660573686335
+USER	Find All Todo	END	1660573686351
+USER	Find All Todo	END	1660573686352
+USER	Get Application Status	END	1660573686366
+USER	Get Application Status	END	1660573686383
+USER	Get Application Status	END	1660573686383
+USER	Get Application Status	END	1660573686383
+USER	Get Application Status	END	1660573686446
+USER	Find All Todo	END	1660573686461
+USER	Get Application Status	END	1660573686523
+USER	Find All Todo	END	1660573690412
+USER	Find All Todo	END	1660573690429
+USER	Find All Todo	END	1660573690445
+USER	Get Application Status	END	1660573690445
+USER	Get Application Status	END	1660573690461
+USER	Get Application Status	END	1660573690461
+USER	Get Application Status	END	1660573690461
+USER	Get Application Status	END	1660573690492
+USER	Get Application Status	END	1660573690508
+USER	Get Application Status	END	1660573690555
+USER	Get Application Status	END	1660573690586
+USER	Get Application Status	END	1660573690634
+USER	Find All Todo	END	1660573694523
+USER	Find All Todo	END	1660573694538
+USER	Get Application Status	END	1660573694553
+USER	Get Application Status	END	1660573694553
+USER	Get Application Status	END	1660573694553
+USER	Get Application Status	END	1660573694553
+USER	Get Application Status	END	1660573694585
+USER	Get Application Status	END	1660573694601
+USER	Get Application Status	END	1660573694617
+USER	Get Application Status	END	1660573694633
+USER	Get Application Status	END	1660573694694
+USER	Get Application Status	END	1660573694756
+USER	Find All Todo	END	1660573698596
+USER	Get Application Status	END	1660573698611
+USER	Get Application Status	END	1660573698613
+USER	Get Application Status	END	1660573698643
+USER	Get Application Status	END	1660573698657
+USER	Get Application Status	END	1660573698657
+USER	Get Application Status	END	1660573698673
+USER	Get Application Status	END	1660573698689
+USER	Get Application Status	END	1660573698704
+USER	Get Application Status	END	1660573698704
+USER	Get Application Status	END	1660573698812
+USER	Get Application Status	END	1660573698859
+USER	Get Application Status	END	1660573702667
+USER	Get Application Status	END	1660573702698
+USER	Find All Todo	END	1660573702713
+USER	Get Application Status	END	1660573702729
+USER	Get Application Status	END	1660573702746
+USER	Find All Todo	END	1660573702777
+USER	Get Application Status	END	1660573702777
+USER	Find All Todo	END	1660573702807
+USER	Get Application Status	END	1660573702807
+USER	Get Application Status	END	1660573702824
+USER	Get Application Status	END	1660573702886
+USER	Get Application Status	END	1660573702947
+USER	Get Application Status	END	1660573706797
+USER	Find All Todo	END	1660573706813
+USER	Get Application Status	END	1660573706813
+USER	Get Application Status	END	1660573706844
+USER	Get Application Status	END	1660573706859
+USER	Get Application Status	END	1660573706891
+USER	Find All Todo	END	1660573706891
+USER	Get Application Status	END	1660573706891
+USER	Find All Todo	END	1660573706891
+USER	Get Application Status	END	1660573706921
+USER	Get Application Status	END	1660573707000
+USER	Get Application Status	END	1660573707046
+USER	Find All Todo	END	1660573710883
+USER	Get Application Status	END	1660573710915
+USER	Get Application Status	END	1660573710931
+USER	Get Application Status	END	1660573710947
+USER	Find All Todo	END	1660573710962
+USER	Find All Todo	END	1660573710978
+USER	Get Application Status	END	1660573710978
+USER	Find All Todo	END	1660573710993
+USER	Find All Todo	END	1660573710993
+USER	Find All Todo	END	1660573711039
+USER	Find All Todo	END	1660573711102
+USER	Get Application Status	END	1660573711165
+USER	Find All Todo	END	1660573714958
+USER	Get Application Status	END	1660573715005
+USER	Find All Todo	END	1660573715022
+USER	Get Application Status	END	1660573715022
+USER	Get Application Status	END	1660573715037
+USER	Find All Todo	END	1660573715054
+USER	Find All Todo	END	1660573715054
+USER	Find All Todo	END	1660573715100
+USER	Find All Todo	END	1660573715115
+USER	Get Application Status	END	1660573715146
+REQUEST		GET /karate-api/users/swiss/todos/	1660573711105	1660573715207	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573711168	1660573715285	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573714962	1660573719076	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573715026	1660573719123	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573715008	1660573719123	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573715041	1660573719139	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573715059	1660573719139	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573715026	1660573719139	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573715059	1660573719170	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573715103	1660573719203	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573715119	1660573719218	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573715152	1660573719235	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573715211	1660573719329	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573715289	1660573719360	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573719079	1660573723191	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573719126	1660573723207	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573719149	1660573723222	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573719149	1660573723222	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573719149	1660573723237	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573719126	1660573723237	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573719175	1660573723269	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573719222	1660573723283	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573719208	1660573723299	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573719239	1660573723332	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573719332	1660573723409	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573719363	1660573723441	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573723226	1660573727289	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573723211	1660573727289	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573723193	1660573727289	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573723227	1660573727304	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573723242	1660573727334	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573723242	1660573727365	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573723273	1660573727382	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573723303	1660573727428	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573723287	1660573727429	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573723335	1660573727461	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573723413	1660573727553	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573723444	1660573727585	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573727293	1660573731373	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573727307	1660573731389	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573727293	1660573731389	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573727293	1660573731389	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573727338	1660573731452	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573727369	1660573731483	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573727385	1660573731498	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573727433	1660573731529	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573727433	1660573731544	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573727464	1660573731575	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573727556	1660573731684	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573727589	1660573731700	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573731376	1660573735457	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573731392	1660573735457	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573731392	1660573735457	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573731392	1660573735473	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573731454	1660573735535	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573731486	1660573735569	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573731501	1660573735599	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573731532	1660573735631	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573731580	1660573735647	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573731548	1660573735647	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573731704	1660573735773	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573731687	1660573735790	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573735460	1660573739519	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573735460	1660573739519	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573735460	1660573739519	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573735477	1660573739550	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573735538	1660573739610	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573735572	1660573739627	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573735603	1660573739659	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573735635	1660573739737	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573735652	1660573739754	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573735652	1660573739754	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573735777	1660573739849	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573735793	1660573739895	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573739522	1660573743620	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573739522	1660573743635	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573739522	1660573743635	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573739554	1660573743652	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573739615	1660573743743	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573739630	1660573743758	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573739662	1660573743758	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573739740	1660573743852	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573739762	1660573743869	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573739762	1660573743885	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573739851	1660573743947	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573739899	1660573744008	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573743623	1660573747721	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573743638	1660573747737	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573743638	1660573747736	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573743655	1660573747783	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573743745	1660573747847	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573743760	1660573747847	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573743760	1660573747863	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573743872	1660573747971	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573743855	1660573747987	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573743889	1660573748001	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573743950	1660573748048	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573744013	1660573748094	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573747741	1660573751826	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573747741	1660573751826	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573747724	1660573751842	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573747786	1660573751874	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573747851	1660573751920	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573747851	1660573751919	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573747866	1660573751967	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573747973	1660573752059	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573747990	1660573752076	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573748004	1660573752092	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573748052	1660573752138	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573748098	1660573752203	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573751830	1660573755907	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573751830	1660573755923	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573751845	1660573755954	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573751877	1660573755969	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573751924	1660573756000	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573751924	1660573756016	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573751970	1660573756048	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573752062	1660573756126	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573752080	1660573756142	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573752095	1660573756158	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573752142	1660573756205	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573752205	1660573756252	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573755910	1660573760014	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573755927	1660573760045	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573755958	1660573760061	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573755973	1660573760061	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573756020	1660573760107	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573756005	1660573760107	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573756052	1660573760139	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573756129	1660573760201	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573756146	1660573760248	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573756162	1660573760264	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573756209	1660573760280	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573756256	1660573760327	KO	examples/performance/Todo.feature:14 method Get
+USER	Find All Todo	END	1660573715208
+USER	Get Application Status	END	1660573715285
+USER	Find All Todo	END	1660573719076
+USER	Find All Todo	END	1660573719122
+USER	Get Application Status	END	1660573719122
+USER	Get Application Status	END	1660573719139
+USER	Find All Todo	END	1660573719139
+USER	Get Application Status	END	1660573719139
+USER	Get Application Status	END	1660573719170
+USER	Find All Todo	END	1660573719203
+USER	Find All Todo	END	1660573719218
+USER	Get Application Status	END	1660573719235
+USER	Get Application Status	END	1660573719328
+USER	Find All Todo	END	1660573719360
+USER	Find All Todo	END	1660573723190
+USER	Find All Todo	END	1660573723207
+USER	Get Application Status	END	1660573723222
+USER	Get Application Status	END	1660573723222
+USER	Get Application Status	END	1660573723237
+USER	Find All Todo	END	1660573723237
+USER	Find All Todo	END	1660573723269
+USER	Find All Todo	END	1660573723284
+USER	Find All Todo	END	1660573723300
+USER	Find All Todo	END	1660573723331
+USER	Find All Todo	END	1660573723410
+USER	Get Application Status	END	1660573723441
+USER	Get Application Status	END	1660573727289
+USER	Find All Todo	END	1660573727289
+USER	Find All Todo	END	1660573727289
+USER	Find All Todo	END	1660573727304
+USER	Get Application Status	END	1660573727335
+USER	Find All Todo	END	1660573727366
+USER	Find All Todo	END	1660573727382
+USER	Get Application Status	END	1660573727429
+USER	Get Application Status	END	1660573727429
+USER	Find All Todo	END	1660573727461
+USER	Find All Todo	END	1660573727553
+USER	Find All Todo	END	1660573727585
+USER	Find All Todo	END	1660573731373
+USER	Find All Todo	END	1660573731390
+USER	Find All Todo	END	1660573731390
+USER	Find All Todo	END	1660573731390
+USER	Get Application Status	END	1660573731452
+USER	Find All Todo	END	1660573731483
+USER	Find All Todo	END	1660573731498
+USER	Get Application Status	END	1660573731529
+USER	Find All Todo	END	1660573731545
+USER	Find All Todo	END	1660573731576
+USER	Get Application Status	END	1660573731685
+USER	Find All Todo	END	1660573731701
+USER	Find All Todo	END	1660573735457
+USER	Find All Todo	END	1660573735457
+USER	Find All Todo	END	1660573735457
+USER	Find All Todo	END	1660573735474
+USER	Get Application Status	END	1660573735535
+USER	Find All Todo	END	1660573735569
+USER	Find All Todo	END	1660573735599
+USER	Get Application Status	END	1660573735631
+USER	Get Application Status	END	1660573735648
+USER	Find All Todo	END	1660573735648
+USER	Find All Todo	END	1660573735773
+USER	Find All Todo	END	1660573735790
+USER	Find All Todo	END	1660573739519
+USER	Find All Todo	END	1660573739519
+USER	Find All Todo	END	1660573739519
+USER	Find All Todo	END	1660573739551
+USER	Find All Todo	END	1660573739612
+USER	Find All Todo	END	1660573739626
+USER	Find All Todo	END	1660573739658
+USER	Get Application Status	END	1660573739737
+USER	Find All Todo	END	1660573739754
+USER	Find All Todo	END	1660573739754
+USER	Find All Todo	END	1660573739848
+USER	Get Application Status	END	1660573739896
+USER	Find All Todo	END	1660573743620
+USER	Find All Todo	END	1660573743635
+USER	Find All Todo	END	1660573743635
+USER	Find All Todo	END	1660573743651
+USER	Find All Todo	END	1660573743743
+USER	Find All Todo	END	1660573743758
+USER	Find All Todo	END	1660573743758
+USER	Get Application Status	END	1660573743852
+USER	Get Application Status	END	1660573743869
+USER	Find All Todo	END	1660573743885
+USER	Find All Todo	END	1660573743947
+USER	Find All Todo	END	1660573744009
+USER	Find All Todo	END	1660573747720
+USER	Find All Todo	END	1660573747737
+USER	Find All Todo	END	1660573747737
+USER	Find All Todo	END	1660573747784
+USER	Find All Todo	END	1660573747848
+USER	Find All Todo	END	1660573747848
+USER	Find All Todo	END	1660573747862
+USER	Find All Todo	END	1660573747970
+USER	Get Application Status	END	1660573747986
+USER	Find All Todo	END	1660573748001
+USER	Find All Todo	END	1660573748048
+USER	Find All Todo	END	1660573748094
+USER	Find All Todo	END	1660573751826
+USER	Find All Todo	END	1660573751826
+USER	Find All Todo	END	1660573751842
+USER	Get Application Status	END	1660573751874
+USER	Find All Todo	END	1660573751920
+USER	Find All Todo	END	1660573751920
+USER	Get Application Status	END	1660573751966
+USER	Get Application Status	END	1660573752059
+USER	Get Application Status	END	1660573752076
+USER	Get Application Status	END	1660573752092
+USER	Find All Todo	END	1660573752138
+USER	Find All Todo	END	1660573752202
+USER	Find All Todo	END	1660573755907
+USER	Find All Todo	END	1660573755923
+USER	Find All Todo	END	1660573755955
+USER	Find All Todo	END	1660573755970
+USER	Find All Todo	END	1660573756001
+USER	Find All Todo	END	1660573756016
+USER	Get Application Status	END	1660573756048
+USER	Find All Todo	END	1660573756127
+USER	Get Application Status	END	1660573756142
+USER	Get Application Status	END	1660573756158
+USER	Find All Todo	END	1660573756206
+USER	Find All Todo	END	1660573756253
+USER	Find All Todo	END	1660573760015
+USER	Get Application Status	END	1660573760046
+USER	Find All Todo	END	1660573760061
+USER	Find All Todo	END	1660573760061
+USER	Find All Todo	END	1660573760107
+USER	Find All Todo	END	1660573760107
+USER	Find All Todo	END	1660573760138
+USER	Find All Todo	END	1660573760201
+USER	Get Application Status	END	1660573760248
+USER	Get Application Status	END	1660573760265
+USER	Find All Todo	END	1660573760281
+USER	Find All Todo	END	1660573760327
+REQUEST		GET /karate-api/users/swiss/todos/	1660573760018	1660573764107	KO	examples/performance/Todo.feature:14 method Get
+USER	Find All Todo	END	1660573764107
+REQUEST		GET /karate-api/users/swiss/todos/	1660573760049	1660573764154	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573760065	1660573764154	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573760065	1660573764185	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573760110	1660573764216	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573760110	1660573764231	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573760142	1660573764263	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573760256	1660573764310	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573760205	1660573764316	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573760271	1660573764325	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573760288	1660573764355	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573760334	1660573764418	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573764112	1660573768248	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573764160	1660573768248	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573764160	1660573768263	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573764190	1660573768311	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573764223	1660573768326	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573764238	1660573768342	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573764271	1660573768356	KO	examples/performance/Todo.feature:14 method Get
+USER	Find All Todo	END	1660573764154
+USER	Find All Todo	END	1660573764154
+USER	Find All Todo	END	1660573764185
+USER	Find All Todo	END	1660573764216
+USER	Find All Todo	END	1660573764232
+USER	Find All Todo	END	1660573764263
+USER	Get Application Status	END	1660573764311
+USER	Find All Todo	END	1660573764316
+USER	Get Application Status	END	1660573764326
+USER	Find All Todo	END	1660573764355
+USER	Find All Todo	END	1660573764418
+USER	Find All Todo	END	1660573768248
+USER	Find All Todo	END	1660573768248
+USER	Find All Todo	END	1660573768263
+USER	Get Application Status	END	1660573768311
+USER	Find All Todo	END	1660573768326
+USER	Find All Todo	END	1660573768341
+USER	Find All Todo	END	1660573768357
+REQUEST		GET /karate-api/users/swiss/todos/	1660573764323	1660573768389	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573764314	1660573768389	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573764329	1660573768419	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573764359	1660573768466	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573764421	1660573768514	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573768251	1660573772331	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573768266	1660573772331	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573768251	1660573772331	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573768314	1660573772408	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573768328	1660573772408	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573768345	1660573772424	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573768360	1660573772439	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573768393	1660573772456	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573768393	1660573772459	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573768423	1660573772486	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573768469	1660573772548	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573768517	1660573772579	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573772333	1660573776417	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573772333	1660573776417	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573772333	1660573776433	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573772411	1660573776511	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573772411	1660573776527	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573772427	1660573776527	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573772443	1660573776527	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573772461	1660573776527	KO	examples/performance/Todo.feature:14 method Get
+USER	Find All Todo	END	1660573768389
+USER	Find All Todo	END	1660573768389
+USER	Get Application Status	END	1660573768419
+USER	Find All Todo	END	1660573768466
+USER	Find All Todo	END	1660573768514
+USER	Find All Todo	END	1660573772330
+USER	Find All Todo	END	1660573772330
+USER	Find All Todo	END	1660573772330
+USER	Get Application Status	END	1660573772408
+USER	Find All Todo	END	1660573772408
+USER	Find All Todo	END	1660573772424
+USER	Get Application Status	END	1660573772440
+USER	Find All Todo	END	1660573772455
+USER	Find All Todo	END	1660573772458
+USER	Get Application Status	END	1660573772486
+USER	Find All Todo	END	1660573772548
+USER	Get Application Status	END	1660573772579
+USER	Find All Todo	END	1660573776416
+USER	Find All Todo	END	1660573776416
+USER	Find All Todo	END	1660573776433
+USER	Get Application Status	END	1660573776511
+USER	Find All Todo	END	1660573776527
+USER	Get Application Status	END	1660573776527
+USER	Get Application Status	END	1660573776527
+USER	Get Application Status	END	1660573776527
+REQUEST		GET /karate-api/users/swiss/todos/	1660573772459	1660573776573	KO	examples/performance/Todo.feature:14 method Get
+USER	Find All Todo	END	1660573776573
+REQUEST		GET /karate-api/status	1660573772488	1660573776604	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573772550	1660573776650	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573772582	1660573776681	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573776420	1660573780485	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573776420	1660573780516	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573776436	1660573780533	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573776530	1660573780580	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573776530	1660573780580	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573776513	1660573780580	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573776531	1660573780595	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573776530	1660573780611	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573776576	1660573780642	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573776608	1660573780689	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573776653	1660573780705	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573776684	1660573780752	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573780489	1660573784557	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573780538	1660573784587	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573780519	1660573784620	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573780583	1660573784620	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573780583	1660573784635	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573780614	1660573784665	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573780583	1660573784681	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573780599	1660573784681	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573780645	1660573784726	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573780692	1660573784756	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573780708	1660573784802	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573780755	1660573784849	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573784560	1660573788655	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573784589	1660573788716	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573784623	1660573788716	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573784623	1660573788734	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573784640	1660573788749	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573784685	1660573788764	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573784670	1660573788779	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573784685	1660573788779	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573784732	1660573788826	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573784761	1660573788903	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573784805	1660573788904	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573784854	1660573788951	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573788657	1660573792756	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573788719	1660573792788	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573788752	1660573792820	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573788737	1660573792821	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573788719	1660573792837	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573788766	1660573792853	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573788782	1660573792869	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573788783	1660573792884	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573788829	1660573792916	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573788906	1660573793008	KO	examples/performance/Todo.feature:14 method Get
+USER	Get Application Status	END	1660573776605
+USER	Find All Todo	END	1660573776651
+USER	Get Application Status	END	1660573776681
+USER	Find All Todo	END	1660573780485
+USER	Find All Todo	END	1660573780516
+USER	Find All Todo	END	1660573780533
+USER	Get Application Status	END	1660573780580
+USER	Get Application Status	END	1660573780580
+USER	Get Application Status	END	1660573780580
+USER	Get Application Status	END	1660573780595
+USER	Get Application Status	END	1660573780611
+USER	Get Application Status	END	1660573780642
+USER	Find All Todo	END	1660573780689
+USER	Find All Todo	END	1660573780705
+USER	Find All Todo	END	1660573780752
+USER	Get Application Status	END	1660573784557
+USER	Get Application Status	END	1660573784587
+USER	Find All Todo	END	1660573784620
+USER	Find All Todo	END	1660573784620
+USER	Get Application Status	END	1660573784636
+USER	Find All Todo	END	1660573784666
+USER	Get Application Status	END	1660573784681
+USER	Get Application Status	END	1660573784681
+USER	Get Application Status	END	1660573784726
+USER	Find All Todo	END	1660573784756
+USER	Find All Todo	END	1660573784803
+USER	Find All Todo	END	1660573784850
+USER	Find All Todo	END	1660573788655
+USER	Find All Todo	END	1660573788716
+USER	Find All Todo	END	1660573788716
+USER	Find All Todo	END	1660573788733
+USER	Find All Todo	END	1660573788749
+USER	Find All Todo	END	1660573788764
+USER	Find All Todo	END	1660573788780
+USER	Find All Todo	END	1660573788780
+USER	Find All Todo	END	1660573788826
+USER	Find All Todo	END	1660573788903
+USER	Find All Todo	END	1660573788903
+USER	Find All Todo	END	1660573788950
+USER	Find All Todo	END	1660573792756
+USER	Find All Todo	END	1660573792788
+USER	Find All Todo	END	1660573792821
+USER	Find All Todo	END	1660573792821
+USER	Find All Todo	END	1660573792837
+USER	Find All Todo	END	1660573792853
+USER	Find All Todo	END	1660573792869
+USER	Find All Todo	END	1660573792884
+USER	Find All Todo	END	1660573792916
+USER	Find All Todo	END	1660573793008
+REQUEST		GET /karate-api/status	1660573788906	1660573793024	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573788954	1660573793071	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573792759	1660573796858	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573792791	1660573796889	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573792824	1660573796905	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573792833	1660573796919	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573792840	1660573796950	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573792872	1660573796967	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/status	1660573792856	1660573796966	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573792919	1660573796997	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573792887	1660573796997	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573793013	1660573797105	KO	examples/performance/Status.feature:13 method Get
+REQUEST		GET /karate-api/status	1660573793028	1660573797120	KO	examples/performance/Status.feature:13 method Get
+USER	Get Application Status	END	1660573793024
+USER	Find All Todo	END	1660573793071
+USER	Find All Todo	END	1660573796857
+USER	Find All Todo	END	1660573796889
+USER	Get Application Status	END	1660573796904
+USER	Get Application Status	END	1660573796919
+USER	Get Application Status	END	1660573796950
+USER	Find All Todo	END	1660573796966
+USER	Get Application Status	END	1660573796966
+USER	Get Application Status	END	1660573796997
+USER	Get Application Status	END	1660573796997
+USER	Get Application Status	END	1660573797104
+USER	Get Application Status	END	1660573797120
+REQUEST		GET /karate-api/status	1660573793076	1660573797166	KO	examples/performance/Status.feature:13 method Get
+USER	Get Application Status	END	1660573797166
+REQUEST		GET /karate-api/users/swiss/todos/	1660573796860	1660573800925	KO	examples/performance/Todo.feature:14 method Get
+USER	Find All Todo	END	1660573800925
+REQUEST		GET /karate-api/users/swiss/todos/	1660573796893	1660573800970	KO	examples/performance/Todo.feature:14 method Get
+USER	Find All Todo	END	1660573800971
+REQUEST		GET /karate-api/users/swiss/todos/	1660573796908	1660573801001	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573796922	1660573801001	KO	examples/performance/Todo.feature:14 method Get
+USER	Find All Todo	END	1660573801001
+USER	Find All Todo	END	1660573801001
+REQUEST		GET /karate-api/users/swiss/todos/	1660573796971	1660573801049	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573796971	1660573801049	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573796953	1660573801049	KO	examples/performance/Todo.feature:14 method Get
+USER	Find All Todo	END	1660573801049
+USER	Find All Todo	END	1660573801049
+USER	Find All Todo	END	1660573801049
+REQUEST		GET /karate-api/users/swiss/todos/	1660573797001	1660573801081	KO	examples/performance/Todo.feature:14 method Get
+REQUEST		GET /karate-api/users/swiss/todos/	1660573797001	1660573801081	KO	examples/performance/Todo.feature:14 method Get
+USER	Find All Todo	END	1660573801081
+USER	Find All Todo	END	1660573801081
+REQUEST		GET /karate-api/users/swiss/todos/	1660573797107	1660573801191	KO	examples/performance/Todo.feature:14 method Get
+USER	Find All Todo	END	1660573801190

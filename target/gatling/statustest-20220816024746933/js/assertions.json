@@ -1,0 +1,10 @@
+{
+  "simulation": "examples.performance.StatusTest",
+  "simulationId": "statustest",
+  "start": 1660618066933,
+  "description": "",
+  "scenarios": ["Get Application Status"],
+  "assertions": [
+
+  ]
+}

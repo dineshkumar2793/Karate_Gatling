@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <title>Karate Timeline</title>
+    <style>
+      body, html { font-family: arial, sans-serif; font-size: 11pt; }
+      #visualization { box-sizing: border-box; width: 100%; height: 300px; }
+      .vis-item.failed { background-color: #F2928C; }
+      .page-heading { padding: 0.5em; margin-bottom: 0.5em; background-color: lightcyan; border: 1px solid gray; }
+    </style>
+    <script src="res/vis.min.js"></script>
+    <link href="res/vis.min.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="page-heading">
+      <a href="karate-summary.html">Summary</a>
+    </div>     
+    <div id="visualization"></div>
+    <script>
+var groups = [{"content":"pool-1-thread-5","id":1},{"content":"pool-1-thread-1","id":2},{"content":"pool-1-thread-3","id":3},{"content":"pool-1-thread-2","id":4},{"content":"pool-1-thread-4","id":5}];
+var items = [{"id":1,"group":1,"content":"examples\/todo\/find_all_todo[1:3]","start":1660573571384,"end":1660573571452,"title":"examples\/todo\/find_all_todo[1:3] 19:56:11.384-19:56:11.452 Find All Todos"},{"id":2,"group":2,"content":"examples\/performance\/Status[1:11]","start":1660573570984,"end":1660573571364,"title":"examples\/performance\/Status[1:11] 19:56:10.984-19:56:11.364 Get Application Status"},{"id":3,"group":3,"content":"examples\/todo\/find_todo[1:3]","start":1660573571385,"end":1660573571448,"title":"examples\/todo\/find_todo[1:3] 19:56:11.385-19:56:11.448 Find a Todo"},{"id":4,"group":4,"content":"examples\/performance\/Todo[1:11]","start":1660573570984,"end":1660573571449,"title":"examples\/performance\/Todo[1:11] 19:56:10.984-19:56:11.449 Find All Todo"},{"id":5,"group":3,"content":"examples\/status\/status[1:3]","start":1660573570984,"end":1660573571364,"title":"examples\/status\/status[1:3] 19:56:10.984-19:56:11.364 Get Application Status"},{"id":6,"group":1,"content":"examples\/todo\/delete_todo[1:3]","start":1660573570984,"end":1660573571364,"title":"examples\/todo\/delete_todo[1:3] 19:56:10.984-19:56:11.364 Delete a Todo"},{"id":7,"group":5,"content":"examples\/todo\/create_todo[1:3]","start":1660573570984,"end":1660573571626,"title":"examples\/todo\/create_todo[1:3] 19:56:10.984-19:56:11.626 Add a new Todo"},{"id":8,"group":2,"content":"examples\/todo\/update_todo[1:3]","start":1660573571385,"end":1660573571626,"title":"examples\/todo\/update_todo[1:3] 19:56:11.385-19:56:11.626 Update a Todo"}];
+</script>
+    <script>
+      var container = document.getElementById('visualization');
+      var timeline = new vis.Timeline(container);
+      timeline.setOptions({groupOrder: 'content'});
+      timeline.setGroups(new vis.DataSet(groups));
+      timeline.setItems(new vis.DataSet(items));
+    </script>
+  </body>
+</html>
